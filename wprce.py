@@ -6,8 +6,7 @@
 #
 # Product: Tatsu wordpress plugin <= 3.3.11
 # CVE: CVE-2021-25094 / Vincent MICHEL (@darkpills)
-# Editor: Tasubuilder / BrandExponents.com
-# URL: https://tatsubuilder.com/
+# Editor: trhacknon
 
 
 import sys
